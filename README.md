@@ -1,4 +1,4 @@
-## Hi there I'm Ahmad Junaidi! 👋
+
 <h3 align="center"><img src='https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-thumbs-up-gif.gif' height="30px"> Hi there! I'm Ahmad Junaidi</h3>
 <p align="center" style="font-style: italic;">Software Engineering Student</p>
 
