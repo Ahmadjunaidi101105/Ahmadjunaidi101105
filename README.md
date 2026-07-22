@@ -14,11 +14,11 @@
 </p>
 
 ## About Me
-- 👨‍🎓 I am a SOFTWARE ENGINEERING student
-- 📘 Currently studying and focusing on mobile programming
-- 💆 I enjoy discussing technology with others
-- 👨 I frequently share my experiences on LinkedIn; feel free to check it out above
-- 🤷‍♂️ Curiosity is the most mysterious thing
+* 🎓 **Software Engineering Graduate** from Telkom University 
+* 💻 Building full-stack web applications, mobile apps, and AI-integrated systems
+* 🔍 Passionate about Software Quality Assurance, testing, and clean architecture
+* 🤝 I enjoy discussing technology, software architecture, and open-source projects
+* 💼 I frequently share my professional journey on LinkedIn; feel free to connect!
 
 ## 📊 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=Ahmadjunaidi101105&color=dc143c)
